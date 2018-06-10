@@ -2,7 +2,7 @@
 
 An all-powerful toolset for hashrentalcoin.
 
-[![Build Status](https://travis-ci.org/hashrentalcoindev/sentinel.svg?branch=master)](https://travis-ci.org/hashrentalcoindev/sentinel)
+[![Build Status](https://travis-ci.org/hashrentalcoin/sentinel.svg?branch=master)](https://travis-ci.org/hashrentalcoindev/sentinel)
 
 Sentinel is an autonomous agent for persisting, processing and automating hashrentalcoin V12.1 governance objects and tasks, and for expanded functions in the upcoming hashrentalcoin V13 release (Evolution).
 
@@ -31,7 +31,7 @@ Make sure the local hashrentalcoin daemon running is at least version 12.1 (1201
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/hashrentalcoindev/sentinel.git && cd sentinel
+    $ git clone https://github.com/hashrentalcoin/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
